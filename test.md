@@ -1,2 +1,5 @@
-# comment 1
+# selecting users from database
+
+```
 select * from users;
+```
